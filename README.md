@@ -3,6 +3,11 @@
 ## Introduction
 This Tableau project provides a comprehensive analysis of user engagement and post activity on our platform. It offers insights into monthly post activity, user engagement metrics, post subtype distribution, and subtype popularity based on likes and comments.
 
+You can find the full visualization here: https://public.tableau.com/views/newsfeed_analysis_17206077806250/Das
+hboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+<img width="652" alt="Screenshot 2024-07-10 at 13 19 01" src="https://github.com/hugobaiao/newsfeed_analysis/assets/16057193/7f6d3439-06a8-4a28-8090-3d90904844a5">
+
 ## Contents
 
 ### 1. Monthly Post Activity and Average Likes
