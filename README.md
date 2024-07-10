@@ -25,4 +25,4 @@ Course certificate posts receive the most likes, followed by goal and streak pos
 "Text post" is the clear winner here with 102 comments, significantly more than any other subtype, none of which surpass 31 comments. This suggests that users are more likely to engage in discussion on text posts.
 
 ## Conclusions
-These insights provide a valuable understanding of user engagement and content preferences on the platform. They can guide strategies to boost active participation and tailor content to user interests. Further conclusions will be added as more data is analyzed and new trends emerge.
+These insights provide a valuable understanding of user engagement and content preferences on the platform. They can guide strategies to boost active participation and tailor content to user interests. F
