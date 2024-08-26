@@ -5,8 +5,8 @@ This Tableau project provides a comprehensive analysis of user engagement and po
 
 You can find the full visualization here: https://public.tableau.com/views/newsfeed_analysis_17206077806250/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-<img[Newsfeed analysis]"(https://github.com/user-attachments/assets/c2221575-0424-4557-adb4-16fbfd459554)"
->
+![Newsfeed analysis](https://github.com/user-attachments/assets/c2221575-0424-4557-adb4-16fbfd459554)
+
 
 ## Contents
 
